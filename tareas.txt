@@ -1,0 +1,5 @@
+Estudiar Git y GitHub
+Practicar comandos de Git
+Desarrollar proyectos de software
+Aprender a trabajar con ramas
+Practicar la resolución de conflictos
